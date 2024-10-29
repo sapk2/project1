@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          welcome to paribesh sapkota arena image carousel
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://python.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          let start reactjs
         </a>
       </header>
     </div>
